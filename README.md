@@ -62,7 +62,7 @@ The entire model development process developed in a modular manner that could be
 
 ---
 
-#### Power BI Dashboard : Folder Link   
+#### Power BI Dashboard : [Folder Link](https://github.com/Anubhav-Rana-2025/Optimizing-Marketing-Campaigns-Through-Subscription-Propensity-Analysis/tree/main/Power%20BI%20Reports)
 
 4 Dashboards were created:
 
