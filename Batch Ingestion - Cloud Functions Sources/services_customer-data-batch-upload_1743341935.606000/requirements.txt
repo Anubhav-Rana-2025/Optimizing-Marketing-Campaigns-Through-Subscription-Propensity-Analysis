@@ -1,0 +1,8 @@
+functions-framework==3.*
+pandas
+pyarrow
+google-cloud-secret-manager
+google-cloud-bigquery
+requests
+google-auth>=2.0,<3.0
+
