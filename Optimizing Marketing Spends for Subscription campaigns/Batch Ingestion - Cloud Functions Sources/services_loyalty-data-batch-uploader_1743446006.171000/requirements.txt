@@ -1,0 +1,6 @@
+functions-framework==3.*
+functions-framework==3.*
+pyarrow
+pandas
+google-cloud-secret-manager
+google-cloud-bigquery
