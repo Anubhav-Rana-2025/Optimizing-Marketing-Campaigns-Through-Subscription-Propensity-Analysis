@@ -11,6 +11,8 @@ They wish to understand the right cohort to target to maintain a good cost to co
 
 ---
 
+![Solution Approach](Solution Flow.png)
+
 ## Approach :
 
 ---
@@ -66,7 +68,18 @@ The entire model development process developed in a modular manner that could be
 
 4 Dashboards were created:
 
-1. **Shopley's Web Performance Analytics** : Provided an in depth look at customer Journey , Incoming Customer Traffic, enrollment analysis on the basis of  web activity etc.  
-2. **Shopley's Pro Enrollment Analytics** : Provided in depth analysis of behavioral patterns of Enrolled and Not Enrolled customers and enabled tracking of conversion metrics.  
-3. **Purchases Overview** : Provided an overview of purchase behavior from a perspective of different segments  
-4. **Executive Overview** : A dashboard for quick overview of Key Enrollment , Web performance and purchase metrics that allow holistic high level view.
+1. **Shopley's Web Performance Analytics** : Provided an in depth look at customer Journey , Incoming Customer Traffic, enrollment analysis on the basis of  web activity etc.
+
+![Web Performance Analytics](Web Performance Analytics.png)
+
+3. **Shopley's Pro Enrollment Analytics** : Provided in depth analysis of behavioral patterns of Enrolled and Not Enrolled customers and enabled tracking of conversion metrics. 
+ 
+![Shopley's Pro Enrollment Analytics] (Shopley Pro Enrollment Analytics.png)
+
+4. **Purchases Overview** : Provided an overview of purchase behavior from a perspective of different segments  
+
+![Purchases Overview] (Purchases Overview.png)
+
+5. **Executive Overview** : A dashboard for quick overview of Key Enrollment , Web performance and purchase metrics that allow holistic high level view.
+
+![Executive Overview](Dashboard%20Images/Executive%20Overview.png)
